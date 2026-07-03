@@ -8,30 +8,51 @@
   },
   {
     "id": 2,
-    "name": "Bruce Banner",
-    "alias": "Hulk",
-    "description": "Scientist who transforms into a giant, powerful green monster when enraged.",
+    "name": "Steve Rogers",
+    "alias": "Captain America",
+    "description": "Recipient of the Super-Soldier serum, World War II hero, and leader of the Avengers.",
     "category": "hero"
   },
   {
     "id": 3,
-    "name": "Steve Rogers",
-    "alias": "Captain America",
-    "description": "World War II super-soldier who was frozen in ice and woke up in the modern world.",
+    "name": "Bruce Banner",
+    "alias": "Hulk",
+    "description": "Genius scientist who, because of exposure to gamma radiation, transforms into a monster.",
     "category": "hero"
   },
   {
     "id": 4,
     "name": "Thor Odinson",
     "alias": "Thor",
-    "description": "The Norse God of Thunder, wielder of the mythical hammer Mjolnir.",
+    "description": "The God of Thunder, prince of Asgard, who wields the mystical hammer Mjolnir.",
     "category": "hero"
   },
   {
     "id": 5,
     "name": "Natasha Romanoff",
     "alias": "Black Widow",
-    "description": "Highly trained former KGB spy, assassin, and skilled martial artist.",
+    "description": "Expert spy, athlete, and assassin, trained in the Red Room.",
     "category": "hero"
+  },
+  {
+    "id": 6,
+    "name": "Thanos",
+    "alias": "Thanos",
+    "description": "Warlord from Titan who seeks to collect all six Infinity Stones to wipe out half of all life in the universe.",
+    "category": "villain"
+  },
+  {
+    "id": 7,
+    "name": "Loki Laufeyson",
+    "alias": "Loki",
+    "description": "The God of Mischief and adopted brother of Thor, known for his deceit and magical abilities.",
+    "category": "villain"
+  },
+  {
+    "id": 8,
+    "name": "Johann Schmidt",
+    "alias": "Red Skull",
+    "description": "Ruthless commander of Hydra and Captain America's archenemy, altered by an imperfect Super-Soldier serum.",
+    "category": "villain"
   }
 ]
