@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Tony Stark",
+    "alias": "Iron Man",
+    "description": "Genius billionaire who built a powered armor suit to fight evil.",
+    "category": "hero"
+  },
+  {
+    "id": 2,
+    "name": "Bruce Banner",
+    "alias": "Hulk",
+    "description": "Scientist who transforms into a giant, powerful green monster when enraged.",
+    "category": "hero"
+  },
+  {
+    "id": 3,
+    "name": "Steve Rogers",
+    "alias": "Captain America",
+    "description": "World War II super-soldier who was frozen in ice and woke up in the modern world.",
+    "category": "hero"
+  },
+  {
+    "id": 4,
+    "name": "Thor Odinson",
+    "alias": "Thor",
+    "description": "The Norse God of Thunder, wielder of the mythical hammer Mjolnir.",
+    "category": "hero"
+  },
+  {
+    "id": 5,
+    "name": "Natasha Romanoff",
+    "alias": "Black Widow",
+    "description": "Highly trained former KGB spy, assassin, and skilled martial artist.",
+    "category": "hero"
+  }
+]
